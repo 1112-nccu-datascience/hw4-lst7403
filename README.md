@@ -2,7 +2,7 @@
 
 #### Name: Chan Fai
 #### Student ID: 111753228
-#### ShinyApps link: [<https://gggary.shinyapps.io/111753228/>]
+#### ShinyApps link: [<https://gggary.shinyapps.io/NCCU_DS2023_hw4_111753228/>]
 
 ## Description
 
